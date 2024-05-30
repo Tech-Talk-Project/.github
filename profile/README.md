@@ -109,5 +109,23 @@
 
 <br/>
 
+# 백앤드
+
+## API 명세서
+[API 명세서 링크](https://www.notion.so/hosung-note/337e1cd5f8294f578a74f625fafe70dd?v=cbeb860e7fc342d6b1ce639810ef67ad&pvs=4)
+
+## 사용 기술
+
+### Environment
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### Development
+#### Login
+![OAuth2](https://img.shields.io/badge/OAuth2-%230047B3.svg?style=for-the-badge&logo=OAuth2&logoColor=white)
+
+
 
 
