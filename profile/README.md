@@ -45,6 +45,20 @@
 
 <table width="100%">
   <tr>
+    <th colspan="2">로그인</th>
+  </tr>
+  <tr>
+    <th>소셜 로그인</th>
+    <th>비로그인 상태로 인증이 필요한 기능 접근 시 리다이렉트</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Tech-Talk-Project/.github/assets/104193739/c15366ae-6457-4cf6-8567-dd783de8007f" width="100%"></td>
+    <td><img src="https://github.com/Tech-Talk-Project/.github/assets/104193739/fd9b6711-f167-48b2-80f0-74bc037bda53" width="100%"></td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
     <th colspan="2">유저 프로필</th>
   </tr>
   <tr>
@@ -88,20 +102,6 @@
   <tr>
     <td><img src="https://github.com/Tech-Talk-Project/.github/assets/104193739/9fbe4886-347e-4b58-a98d-3d7a5e551e32" width="100%"></td>
     <td><img src="https://github.com/Tech-Talk-Project/.github/assets/104193739/b5c1ca01-c735-4fd7-af42-15c83119c746" width="100%"></td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <th colspan="2">로그인</th>
-  </tr>
-  <tr>
-    <th>소셜 로그인</th>
-    <th>비로그인 상태로 인증이 필요한 기능 접근 시 리다이렉트</th>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/Tech-Talk-Project/.github/assets/104193739/c15366ae-6457-4cf6-8567-dd783de8007f" width="100%"></td>
-    <td><img src="https://github.com/Tech-Talk-Project/.github/assets/104193739/fd9b6711-f167-48b2-80f0-74bc037bda53" width="100%"></td>
   </tr>
 </table>
 
