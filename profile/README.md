@@ -1,4 +1,4 @@
-# 프로젝트 소개
+# 💡 프로젝트 소개
 
 많은 개발자들이 스터디를 통해 개발을 공부하고, 팀 단위로 프로젝트를 진행합니다. 하지만 비전공자나 학생, 기타 많은 개발자들은 자신에게 맞는 팀을 찾는 데 어려움을 겪습니다. 이러한 어려움을 해결하고자 **TechTalk**을 기획했습니다.
 
@@ -22,7 +22,7 @@
 
 <br/>
 
-# 팀 소개
+# 👥 팀 소개
 
 <div align="center">
 
@@ -35,3 +35,76 @@
 </div>
 
 <br/>
+
+# 🎯 주요 기능
+
+<div align="center">
+
+<table width="100%">
+  <tr>
+    <th colspan="2">유저 프로필</th>
+  </tr>
+  <tr>
+    <th>페이지네이션, 세부 프로필 조회</th>
+    <th>수정</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Tech-Talk-Project/.github/assets/104193739/fc2d008c-b280-4dd6-b054-12eb9d672757" width="100%"></td>
+    <td><img src="https://github.com/Tech-Talk-Project/.github/assets/104193739/c0b33a7b-3b16-4c62-8fc3-9d52e7952c82" width="100%"></td>
+  </tr>
+  <tr>
+    <th colspan="2">팔로우</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="https://github.com/Tech-Talk-Project/.github/assets/104193739/802316cb-8840-4b75-a7cc-0ff96ee5c1b1" width="50%"></td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <th colspan="2">채팅</th>
+  </tr>
+  <tr>
+    <th>실시간 채팅</th>
+    <th>읽지 않은 메세지 처리(개수 알림, 스크롤)</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Tech-Talk-Project/.github/assets/104193739/da158025-3a6f-4853-b1e2-b47e73404c21" width="100%"></td>
+    <td><img src="https://github.com/Tech-Talk-Project/.github/assets/104193739/69d0c3e5-be09-42ff-9570-eef095d5858a" width="100%"></td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <th colspan="2">게시판</th>
+  </tr>
+  <tr>
+    <th>게시판 조회</th>
+    <th>댓글, 게시글 좋아요 및 모집 여부 토글</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Tech-Talk-Project/.github/assets/104193739/9fbe4886-347e-4b58-a98d-3d7a5e551e32" width="100%"></td>
+    <td><img src="https://github.com/Tech-Talk-Project/.github/assets/104193739/b5c1ca01-c735-4fd7-af42-15c83119c746" width="100%"></td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <th colspan="2">로그인</th>
+  </tr>
+  <tr>
+    <th>소셜 로그인</th>
+    <th>비로그인 상태로 인증이 필요한 기능 접근 시 리다이렉트</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Tech-Talk-Project/.github/assets/104193739/c15366ae-6457-4cf6-8567-dd783de8007f" width="100%"></td>
+    <td><img src="https://github.com/Tech-Talk-Project/.github/assets/104193739/fd9b6711-f167-48b2-80f0-74bc037bda53" width="100%"></td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+
+
