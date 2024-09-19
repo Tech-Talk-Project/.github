@@ -5,6 +5,8 @@
 
 **TechTalk**은 팀을 형성하고 성장하고자 하는 개발자들에게 유용한 웹 애플리케이션을 제공합니다. 이를 통해 협업의 기회를 제공하고, 함께 성장할 수 있는 커뮤니티를 조성하는 것이 궁극적인 목표입니다.
 
+<br/>
+
 ## 특징
 **TechTalk**은 여타 프로젝트/스터디 모집 서비스와 다음과 같은 차별점을 가집니다.
 
@@ -18,6 +20,7 @@
 
 이를 통해 프로젝트/스터디 모집자는 단순히 글을 올리고 기다리는 것에 그치지 않고, 다른 유저의 프로필을 조회하여 직접 권유할 수 있습니다. 모집자가 아닌 유저 입장에서도 자신과 맞는 모집 글을 찾아다니지 않아도 프로필에 자신을 잘 표현해두면 팀의 권유를 받을 수 있습니다.
 
+<br/>
 
 ## 개발 기간
 
@@ -142,7 +145,56 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+<br/>
 
+# 프론트엔드
 
+## 사용 기술
+
+### Environment
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### Development
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![Recoil](https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=Recoil&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+
+<br/>
+
+## 디렉토리 구조
+
+```
+📦src
+┣ 📂apis
+┣ 📂assets
+┃ ┣ 📂images
+┃ ┃ ┣ 📂languages
+┃ ┃ ┣ 📂logo
+┃ ┃ ┣ 📂profile
+┣ 📂components
+┃ ┣ 📂Board
+┃ ┣ 📂Chat
+┃ ┣ 📂Common
+┃ ┣ 📂Error
+┃ ┣ 📂Login
+┃ ┣ 📂Main
+┃ ┣ 📂Profile
+┃ ┣ 📂UserDetail
+┣ 📂constants
+┣ 📂hooks
+┣ 📂layouts
+┣ 📂pages
+┣ 📂recoil
+┃ ┣ 📂atoms
+┃ ┗ 📂selectors
+┣ 📂utils
+┣ 📜App.js
+┣ 📜index.js
+```
 
 
